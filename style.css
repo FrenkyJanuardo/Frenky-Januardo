@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(218, 222, 225);
+}
+
+header form{
+    margin-left: 270px;
+}
+
+header h3{
+    color: WHITE;
+    margin-left: 50px;
+    margin-right: 550px;
+}
+
+.container-2{ 
+    text-align: center;
+}
+
+.container-new{
+    background-image:url('23.jpg');
+}
+
+.container{
+    width: 100%;
+}
+
+.card {
+    background-color: rgb(24, 23, 23);
+    border: 10px solid white;
+}
+
+.card p {
+    color: white;
+}
+
+.card h5 {
+    color: white;
+}
